@@ -1,2 +1,2 @@
 # spoutnik
-CoffeeScript modules for Framer Studio software
+Spoutnik is a CoffeeScript library for Framer Studio software.
