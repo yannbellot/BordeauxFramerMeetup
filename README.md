@@ -1,7 +1,8 @@
-# France Framer Meetups
+# France Framer Group
 
 Retrouvez l'ensemble des ressources des Meetup du groupe France Framer.
 
+## Meetups
 
 ## Liens
 
