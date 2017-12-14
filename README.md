@@ -1,3 +1,3 @@
 # Bordeaux Framer Meetup
 
-The Framer Bordeaux Meetup website
+The Bordeaux Framer Meetup website
