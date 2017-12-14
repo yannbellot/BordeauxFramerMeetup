@@ -1,5 +1,5 @@
-# Framer France Group
+# France Framer Meetups
 
-##  Bordeaux Meetup du 18/01/2018
+##  Bordeaux le 18/01/2018
 
-##  Paris Meetup du 23/01/2018
+##  Paris le 23/01/2018
