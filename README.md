@@ -1,6 +1,6 @@
-# Bordeaux Framer Meetup
+# France Framer Meetups
 
-Retrouvez l'ensemble des ressources du premier Bordeaux Framer Meetup.
+Retrouvez l'ensemble des ressources des Meetup du groupe France Framer.
 
 
 ## Liens
