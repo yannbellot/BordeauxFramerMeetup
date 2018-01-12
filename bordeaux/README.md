@@ -2,6 +2,13 @@
 
 Retrouvez l'ensemble des ressources du premier Bordeaux Framer Meetup.
 
+## Atelier découverte
+
+### Design
+
+### Code
+
+### Ressources
 
 ## Liens
 
