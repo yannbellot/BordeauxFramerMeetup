@@ -4,9 +4,11 @@ Retrouvez l'ensemble des ressources de meetup du groupe France Framer.
 
 ## Bordeaux Meetup #1 – 18/01/2018
 
-![Alt text](https://github.com/yannbellot/FranceFramerMeetup/blob/master/framerMeetupBX_1_375px.png)
-
 Lien vers l'évènement : http://nvite.co/8dg79y
+
+Lien vers la démo : https://framer.cloud/Jvhda
+
+![Alt text](https://github.com/yannbellot/FranceFramerMeetup/blob/master/framerMeetupBX_1_375px.png)
 
 ## Paris Meetup #1 – 23/01/2018
 
