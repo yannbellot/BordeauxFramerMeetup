@@ -1,6 +1,6 @@
 # France Framer Meetup
 
-Retrouvez l'ensemble des ressources de meetup du groupe France Framer.
+Retrouvez l'ensemble des ressources des meetups du groupe France Framer.
 
 ## Bordeaux Meetup #1 – 18/01/2018
 
