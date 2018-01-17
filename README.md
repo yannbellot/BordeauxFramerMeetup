@@ -6,7 +6,7 @@ Retrouvez l'ensemble des ressources des meetups du groupe France Framer.
 
 Lien vers l'évènement : http://nvite.co/8dg79y
 
-Démo : https://framer.cloud/Jvhda
+Démo Yann Bellot : https://framer.cloud/Jvhda
 
 ![Alt text](https://github.com/yannbellot/FranceFramerMeetup/blob/master/framerMeetupBX_1_375px.png)
 
