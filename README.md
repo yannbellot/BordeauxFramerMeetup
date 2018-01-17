@@ -4,11 +4,11 @@ Retrouvez l'ensemble des ressources de meetup du groupe France Framer.
 
 ## Bordeaux Meetup #1 – 18/01/2018
 
-Sur Nvite : http://nvite.co/8dg79y
+Lien vers l'évènement : http://nvite.co/8dg79y
 
 ## Paris Meetup #1 – 23/01/2018
 
-Sur Nvite : http://nvite.co/4d4nno
+Lien vers l'évènement : http://nvite.co/4d4nno
 
 ## Liens
 
