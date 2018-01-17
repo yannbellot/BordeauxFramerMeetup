@@ -8,7 +8,7 @@ Lien vers l'évènement : http://nvite.co/8dg79y
 
 Démo Yann Bellot : https://framer.cloud/Jvhda
 
-![Alt text](https://github.com/yannbellot/FranceFramerMeetup/blob/master/framerMeetupBX_1_375px.png)
+![Alt text](https://github.com/yannbellot/FranceFramerMeetup/blob/master/sreenShot_meetupDemo.png)
 
 ## Paris Meetup #1 – 23/01/2018
 
